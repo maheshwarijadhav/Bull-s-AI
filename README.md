@@ -1,1 +1,1 @@
-# StockAI
+# Bull's AI
